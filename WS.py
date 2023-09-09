@@ -60,9 +60,9 @@ import ssl
 
 
 # Email details
-sender_email = "lukehaz35@gmail.com"
-receiver_email = "lahazelton@mail.csuchico.edu"
-password = "flkdfbxmkizajmof"
+sender_email = "*********"
+receiver_email = "********"
+password = "*******" 
 subject = "Shell Lab"
 body = "Email sent using Python."
 
